@@ -7,21 +7,21 @@ body {
 }
 
 header {
-  background: purple;
+  background: red;
   height: 100px;
 }
 
 h1 {
   text-align: center;
-  color: white;
+  color: gray;
   line-height: 100px;
   margin: 0;
 }
 
 article {
-  padding: 10px;
-  margin: 10px;
-  background: aqua;
+  padding: 15px;
+  margin: 15px;
+  background: blue;
 }
 
 /* Add your flexbox CSS below here */
